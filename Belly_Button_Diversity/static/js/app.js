@@ -53,7 +53,7 @@ function buildCharts(sample) {
           marker: {
             color: otu_ids,
             size: sample_values,
-            colorscale: "Earth"
+            colorscale: "Rainbow"
           }
         }
 
